@@ -52,6 +52,7 @@ Top Performers
     Name: UMAR MUJTABA
     
     LinkedIn:www.linkedin.com/in/umar-mujtaba
+    Live link:https://app.powerbi.com/view?r=eyJrIjoiNWQyZGU4MWQtNjBmYS00ODg2LWExNjktNTgzNmNkYzhhNjRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ⭐ Acknowledgments
 This project was inspired by my passion for data analytics and business insights. Thank you to the open-source community for providing tools and resources!
